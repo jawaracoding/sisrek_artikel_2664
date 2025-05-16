@@ -1,3 +1,3 @@
 <?php 	
-$koneksi = new mysqli("localhost","root","","sis_rek_artikel_2664");	
+$koneksi = new mysqli("localhost","root","","sisrek_artikel_2664");	
 ?>
